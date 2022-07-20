@@ -1,13 +1,22 @@
 {
   "name": "startdb-2022",
+  "description": "Jogo da forca desenvolvido durante a seleção do StartDB 2022 da DBServer.",
   "version": "1.0.0",
-  "description": "",
+  "license": "ISC",
   "main": "desafio.js",
+  "author": {
+    "name": "Rian Oliveira",
+    "email": "riandiasdeoliveira2001@gmail.com"
+  },
   "scripts": {
     "start": "node desafio/desafio.js"
   },
-  "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riandeoliveira/startdb-2022.git"
+  },
+  "keywords": []
 }
